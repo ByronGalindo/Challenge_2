@@ -19,7 +19,6 @@ public class Loader {
             System.out.print("\r" + message + loader.charAt(index));
             Thread.sleep(delay);
         }
-        System.out.println("\nLoad Complete...");
     }
 
 }
